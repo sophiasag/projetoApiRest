@@ -1,4 +1,3 @@
-const req = require('express/lib/request')
 const TabelaFornecedor = require('./tabelaFornecedor')
 const CampoInvalido = require('../../erros/CampoInvalido')
 const DadosNaoFornecidos = require('../../erros/DadosNaoFornecidos')
